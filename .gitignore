@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /node-modules
 composer.phar
 /vendor/
@@ -38,11 +37,8 @@ yarn-error.log*
 *.ttf
 *.woff
 *.woff2
-=======
-composer.phar
-/vendor/
 
-# Commit your application's lock file https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control
-# You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
-# composer.lock
->>>>>>> a3ccd4dede8b1e3312bb7fe9b9b38a2c19b591b8
+/mysql/
+mysql/**
+
+
