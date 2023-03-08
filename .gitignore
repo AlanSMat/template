@@ -1,6 +1,6 @@
 /node-modules
 composer.phar
-/vendor/
+/vendor
 /.pnp
 .pnp.js
 
@@ -40,5 +40,6 @@ yarn-error.log*
 
 /mysql/
 mysql/**
+/mysql
 
 
